@@ -10,6 +10,8 @@ namespace ConsoleAppEXE1_Cristtiano
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Ma première application!!!");
+            Console.ReadKey();
         }
     }
 }
